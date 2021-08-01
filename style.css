@@ -1,0 +1,44 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(165, 162, 162);
+    margin: 10px;
+}
+
+.h_d{
+    float: none;
+    font-size: 20px;
+    width: 100%;
+    border-radius: 20px;
+    color: rgb(0, 255, 234);
+    box-shadow: 5px 5px 5px rgb(165, 162, 162);
+    padding: 10px;
+}
+
+.h2_d{
+    font-size: 20px;
+}
+
+.r_p_t{
+    box-shadow: 5px 5px 5px rgb(165, 162, 162);
+    font-size: 20px;
+}
+
+.cr_f{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background-color: rgb(121, 55, 8);
+    color: cornsilk;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+ box-shadow: 5px 5px 5px rgb(165, 162, 162);
+ border-radius: 25px;
+ border:5px solid  rgb(0, 255, 136);
+ margin-top: 150px;
+ 
+
+}
